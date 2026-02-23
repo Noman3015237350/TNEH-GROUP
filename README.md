@@ -56,11 +56,10 @@ Particle System Floating particles random() + translate
 🎯 INSTALLATION WITH ANIMATION
 
 ```bash
-# 🌟 Step 1 - Clone with 3D effect
-git clone --depth=1 https://github.com/tneh-group/tool.git
+# 🌟 Step 1 - git clone https://github.com/Noman3015237350/TNEH-GROUP.git
 
 # 🎨 Step 2 - Enter with glow animation
-cd tneh-group && chmod +x *
+cd TNEH-GROUP && chmod +x *
 
 # ⚡ Step 3 - Run with particle effect
 python tneh.py
